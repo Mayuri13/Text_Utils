@@ -10,10 +10,12 @@ export default function text(props) {
   const onClickUpListener = () => {
     let newText = text.toUpperCase()
     setText(newText)
+    props.showAlert("Converted to Upper Case", "success")
   }
   const onClickLowListener = () => {
     let newText = text.toLowerCase()
     setText(newText)
+    props.showAlert("Converted to Lower Case", "success")
   }
   const onClickClearListener = () => {
     let newText = ''
