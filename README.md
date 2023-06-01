@@ -1,5 +1,5 @@
 # Text_Utils
-Preview link : 
+Preview link : https://mayuri13.github.io/Text_Utils/
 
 The React website is a user-friendly online tool that allows users to perform various text manipulations effortlessly. With its sleek and intuitive interface, it offers a range of convenient features to modify text according to the user's needs.
 
